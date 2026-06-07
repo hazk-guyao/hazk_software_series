@@ -1,6 +1,6 @@
 {
-    "version": "1.0.1",
-    "changelog": "1、ZMQ消息工具——首次版本推送",
+    "version": "1.1.0",
+    "changelog": "1、修复了话题订阅中心数据丢失问题\n2、补充了大量的提示胶囊\n3、对安卓端进行了qml适配",
     "files": {
         "concrt140.dll": {
             "md5": "6a2cef495313352cbcdb132a00bbc0e2"
@@ -24,7 +24,7 @@
             "md5": "83bbecf92fb68795a620b395998b131b"
         },
         "output.exe": {
-            "md5": "341771c216f3993aa9b1633184ece8df"
+            "md5": "a5722434849b6032a6527f56e6316172"
         },
         "Qt6Core.dll": {
             "md5": "8abf04d16570f8f1ac1f0164cb9affb0"
@@ -117,7 +117,7 @@
             "md5": "59c7208364b05ea7452ff04c8ee2068f"
         },
         "updater.exe": {
-            "md5": "69a3c9153b43942522ff08efc6043e95"
+            "md5": "b56efed38f2759478224798898e8cbe4"
         },
         "vcruntime140.dll": {
             "md5": "0d35c5e99871b4f02c490b9fd9dace34"
