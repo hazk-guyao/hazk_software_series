@@ -1,6 +1,6 @@
 {
     "version": "1.0.1",
-    "changelog": "1、首次版本推送",
+    "changelog": "1、ZMQ消息工具——首次版本推送",
     "files": {
         "concrt140.dll": {
             "md5": "6a2cef495313352cbcdb132a00bbc0e2"
@@ -24,7 +24,7 @@
             "md5": "83bbecf92fb68795a620b395998b131b"
         },
         "output.exe": {
-            "md5": "e3a76d1dec12dd32bfda82d1218c16e7"
+            "md5": "341771c216f3993aa9b1633184ece8df"
         },
         "Qt6Core.dll": {
             "md5": "8abf04d16570f8f1ac1f0164cb9affb0"
